@@ -7,5 +7,3 @@ Django RestFramework
 Postgres
 Angular Js Front End
 
-
-![Alt text](image.png "Output")
