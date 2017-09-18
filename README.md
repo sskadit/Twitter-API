@@ -8,4 +8,4 @@ Postgres
 Angular Js Front End
 
 
-![Alt text](image.jpg "Output")
+![Alt text](image.png "Output")
